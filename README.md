@@ -17,11 +17,11 @@
 <br>
 
 - I recenty graduated from UT Dallas - Erik Jonsson School of Computer Science with a Master's in Computer Science spz. in Data Science.
-- I have over 3 years of professional Experience as a a Data Scientist working in Fintech, E-commerce, Healthcare and Retail.
+- I have over 3 years of professional Experience as a Data Scientist working in Fintech, E-commerce, Healthcare and Retail.
 - Please reach out to me via Email/Linkedin.
 
 <br><br>
 
 📫 **Contact me via**:
-- Email (yashwanthdevireddy10@gmail.com)
+- Email (yashwanthdevireddy1@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/yashwanth-devireddy/])
