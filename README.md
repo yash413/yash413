@@ -30,5 +30,3 @@
 - 📞 (945) 217-2023  
 - 🔗 LinkedIn: linkedin.com/in/yashwanth-devireddy/ 
 - 🌐 Portfolio: yash413.github.io
-
-<br>
