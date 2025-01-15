@@ -6,11 +6,6 @@
 
 <br>
 
-<!-- Image aligned to the right for aesthetic balance -->
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
 ### **About Me**
 
 - **Education:** Recently graduated from UT Dallas - Erik Jonsson School of Computer Science with a **Master's in Computer Science | Data Science**.
@@ -37,8 +32,3 @@
 - 🌐 Portfolio: yash413.github.io
 
 <br>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://your-neural-network-image-url-here.com" alt="Neural Network Inspired Design" width="100%">
-</p>
